@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'akzidenz-grotesk-bq-bold';
+  src: url(./akzidenz-grotesk-bq-bold.eot);
+  src: url(./akzidenz-grotesk-bq-bold.eot?#iefix) format('embedded-opentype'),
+       url(./akzidenz-grotesk-bq-bold.svg#akzidenz-grotesk-bq-bold) format('svg'),
+       url(./akzidenz-grotesk-bq-bold.ttf) format('truetype'),
+       url(./akzidenz-grotesk-bq-bold.woff2) format('woff2'),
+       url(./akzidenz-grotesk-bq-bold.woff) format('woff');
+}
